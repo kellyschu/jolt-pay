@@ -1,0 +1,41 @@
+/* colors
+
+#98FF99
+#86F096
+#74E193
+#62D28F
+#50C38C
+#3EB489 */
+
+
+/* #62D290
+#50C38D
+#2CA587
+#1A9684
+#088781
+#00787E
+#00687B */
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #3eb48bea ;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  font-size: calc(12px + 2vmin);
+  color: #00787E;
+  text-shadow: #00687B 1px 2px 1px;
+  img {
+    width: 40px;
+    margin: 10px;
+    border-radius: 24%;
+    border: #0d724f74 5px solid ;
+    box-shadow: #00787e81 1px 2px 12px;
+    }
+}
+
+
+
